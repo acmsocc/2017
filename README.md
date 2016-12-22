@@ -1,4 +1,4 @@
-# SoCC 2016 Website
+# SoCC 2017 Website
 
 ## Instructions for making changes to website
 
@@ -19,9 +19,9 @@ If you don't have git installed in your computer, please follow the instructions
 
 From your unix terminal window use the following command to check out the repository
 
-> git clone https://github.com/acmsocc/2016.git
+> git clone https://github.com/acmsocc/2017.git
 
-A directory called 2016 will be created which houses the repository. The repository might not contain any code since it is the master. You need to check out the branch called gh-pages. 
+A directory called 2017 will be created which houses the repository. The repository might not contain any code since it is the master. You need to check out the branch called gh-pages. 
 For checking out the branch, use the following
 
 > git checkout gh-pages
