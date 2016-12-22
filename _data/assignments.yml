@@ -1,0 +1,162 @@
+- id: 1
+  mentees:
+  - email: liu.3222@osu.edu
+    name: Feilong Liu
+    org: The Ohio State University
+  - email: jaemyung.kim@uwaterloo.ca
+    name: Jaemyung Kim
+    org: University of Waterloo
+  - email: yalabdul@usc.edu
+    name: Yazeed Alabdulkarim
+    org: University of Southern California
+  - email: sparks@cs.berkeley.edu
+    name: Evan Sparks
+    org: UC Berkeley
+  mentor: Magda Balazinska
+- id: 2
+  mentees:
+  - email: george.prekas@epfl.ch
+    name: George Prekas
+    org: EPFL
+  - email: dol@umich.edu
+    name: Dolan Antenucci
+    org: University of Michigan
+  - email: yxfang@cs.hku.hk
+    name: Yixiang Fang
+    org: The University of Hong Kong
+  - email: mia.primorac@epfl.ch
+    name: Mia Primorac 
+    org: EPFL
+  mentor: Philip Bernstein
+- id: 3
+  mentees:
+  - email: blding@cs.cornell.edu
+    name: Bailu Ding
+    org: Cornell University
+  - email: aus@cs.pitt.edu
+    name: Anatoli Shein
+    org: University of Pittsburgh
+  - email: zcshang@se.cuhk.edu.hk
+    name: Zechao Shang
+    org: The Chinese University of Hong Kong
+  - email: hengganc@ece.cmu.edu
+    name: Henggang Cui
+    org: Carnegie Mellon University
+  mentor: Michael Carey
+- id: 4
+  mentees:
+  - email: licai@cs.utah.edu
+    name: Cai Li
+    org: University of Utah
+  - email: supr.subr@gmail.com
+    name: Supreeth Subramanya
+    org: UMass Amherst
+  - email: lianghon@andrew.cmu.edu
+    name: Lianghong Xu
+    org: Carnegie Mellon University
+  - email: xiaowencong@nlsde.buaa.edu.cn
+    name: Wencong Xiao
+    org: Beihang University
+  mentor: Fred Douglis
+- id: 5
+  mentees:
+  - email: nagarkar@asu.edu
+    name: Parth Nagarkar
+    org: Arizona State University
+  - email: nocoot@gmail.com
+    name: Netanel Cohen
+    org: Interdisciplinary Center Herzliya
+  - email: gicevaj@inf.ethz.ch
+    name: Jana Giceva
+    org: ETH Zurich
+  - email: s_grizan@ttglabs.com
+    name: Sergey Grizan
+    org: TTGLabs
+  mentor: Johannes Gehrke
+- id: 6
+  mentees:
+  - email: cdel@stanford.edu
+    name: Christina Delimitrou
+    org: Stanford University
+  - email: im159@cs.rutgers.edu
+    name: Ioannis Manousakis
+    org: Rutgers University
+  - email: quick803@gmail.com
+    name: Yuankai Guo
+    org: University of Utah
+  - email: api@cs.berkeley.edu
+    name: Anand Padmanabha Iyer
+    org: UC Berkeley
+  mentor: Indranil Gupta
+- id: 7
+  mentees:
+  - email: jian.huang@gatech.edu
+    name: Jian Huang
+    org: Georgia Tech
+  - email: taylerh@ece.ubc.ca
+    name: Tayler Hetherington
+    org: The University of British Columbia
+  - email: ioan@cs.toronto.edu
+    name: Ioan Stefanovici
+    org: University of Toronto
+  - email: hiranya@cs.ucsb.edu
+    name: Hiranya Jayathilaka
+    org: UC Santa Barbara
+  mentor: Pat Helland
+- id: 9
+  mentees:
+  - email: sadeka.islam@outlook.com
+    name: Sadeka Islam
+    org: University of New South Wales
+  - email: cendhu@cse.iitb.ac.in
+    name: Senthil Nathan
+    org: IIT Bombay
+  - email: zhangql08hit@gmail.com
+    name: Quanlu Zhang
+    org: Peking University
+  - email: lugang@ict.ac.cn
+    name: Gang Lu
+    org: Institute of Computing Technology, Chinese Academy of Sciences
+  mentor: Sam Lightstone
+- id: 10
+  mentees:
+  - email: chienchun.hung@usc.edu
+    name: Chien-Chun Hung
+    org: University of Southern California
+  - email: lmlesli2@illinois.edu
+    name: Luke Leslie
+    org: UIUC
+  - email: azure84@naver.com
+    name: Kangsoo Jung
+    org: Sogang University
+  - email: maas@cs.washington.edu
+    name: Ryan Maas
+    org: University of Washington
+  mentor: Ken Salem
+- id: 11
+  mentees:
+  - email: jinlianw@cs.cmu.edu
+    name: Jinliang Wei
+    org: Carnegie Mellon University
+  - email: divya.gupta@imag.fr
+    name: Divya Gupta
+    org: University of Grenoble, LIG
+  - email: dmargo@eecs.harvard.edu
+    name: Daniel Margo
+    org: Harvard University
+  mentor: Donovan Schneider
+- id: 12
+  mentees:
+  - email: frank@cs.umd.edu
+    name: Frank Cangialosi
+    org: University of Maryland
+  - email: liang@ccs.neu.edu
+    name: Liang Zhang
+    org: Northeastern University
+  - email: kirill.sc@gmail.com
+    name: Kirill Bogdanov
+    org: KTH Royal Institute of Technology
+  - email: coppa@di.uniroma1.it
+    name: Emilio Coppa
+    org: Sapienza University of Rome
+  mentor: John Wilkes
