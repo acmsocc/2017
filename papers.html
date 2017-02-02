@@ -8,14 +8,143 @@ layout: default
 <div class="block">
   <div class="container">
     <div class="row">
-
+		<div class="col-md-3">
+			<section class="events small" id="events-small">
+          <header>
+            <h2>Important dates</h2>
+          </header>
+          <div class="section-content">
+            <article class="event nearest">
+              <figure class="date">
+                <div class="month">april</div>
+                <div class="day">28</div>
+              </figure>
+              <aside>
+                <header>
+                  Submission deadline for abstracts
+                </header>
+              </aside>
+            </article><!-- /article -->
+            <article class="event nearest-second">
+              <figure class="date">
+                <div class="month">may</div>
+                <div class="day">5</div>
+              </figure>
+              <aside>
+                <header>
+                  Submission deadline for full papers
+                </header>
+              </aside>
+            </article><!-- /article -->
+            <article class="event nearest">
+              <figure class="date">
+                <div class="month">july</div>
+                <div class="day">18</div>
+              </figure>
+              <aside>
+                <header>
+                  Author notification
+                </header>
+              </aside>
+            </article><!-- /article -->
+            <br>
+          </div><!-- /.section-content -->
+        </section><!-- /.events-small -->
+        <br/>
+			<section class="events small" id="events-small">
+			  <header>
+				<h2>Links</h2>
+			  </header>
+			  <div class="section-content">
+				<ul class="list-links">
+				  <li><h4><a href="#submission">Submission categories</a></h4></li>
+				  <li><h4><a href="#guidelines">Submission guidelines</a></h4></li>
+				</ul>
+			  </div><!-- /.section-content -->
+			</section><!-- /.events-small -->
+	  </div><!-- /.col-md-3 -->
+	  
       <div class="col-md-6">
         <section id="main-content">
           <header>
             <h1>Call for papers</h1>
           </header>
           <div class="section-content">
-            <p> Coming soon! </p>
+            <p>
+				The annual ACM Symposium on Cloud Computing (SoCC’17) brings together
+				researchers, developers, users, and practitioners interested in cloud computing.
+				ACM SoCC’17 is the 8th edition of the premier conference on cloud computing;
+				it is the only conference co-sponsored by the ACM Special Interest Groups on
+				Management of Data (SIGMOD) and on Operating Systems (SIGOPS). 
+				SoCC will be held in Silicon Valley, to foster connections between the academic
+				and industrial communities operating in the cloud space.
+				We solicit original contributions on all aspects of cloud computing. We particularly
+				encourage submissions on the research, development, practice, and experience
+				of cloud computing systems and data management. Specific topics of interest
+				include but are not limited to the following, when related to the cloud:
+            </p>
+
+            {% include topics.html %}
+
+            <a id="submission"><h2>Submission categories</h2></a>
+            <p>Authors can submit a paper in one of the following categories:</p>
+			<ul class="topics-list">
+			  <li>Research Papers describe original research, where novelty is a primary consideration.</li>
+			  <li>Experience Papers describe experiences with existing systems, where lessons from the experience are a primary consideration.</li>
+			  <li>Vision Papers describe speculative but well-reasoned and thought-provoking ideas, where insight is a primary consideration.</li>
+            </ul>
+            <br>
+            <p>
+			Submissions will be judged based on their originality, technical merit,
+			relevance, value to the community, and likelihood of producing interesting
+			discussions at the symposium. Submissions will be kept confidential until
+			accepted. Rejected submissions will be kept confidential permanently.
+            </p>
+
+
+            <a id="guidelines"><h2>Submission guidelines</h2></a>
+            <p>
+			Authors must submit original papers that are not being considered for
+			publication in other forums. Submissions cannot be accompanied by
+			nondisclosure, confidentiality, or similar agreements. 
+            </p>
+			
+			<p>Papers that violate the below requirements will be rejected without reviews. Judicious
+			use of color is permitted, but the paper should print clearly in black and
+			white. Non-rejected papers will be shepherded, and final acceptance will be
+			conditional on the shepherd’s approval. Reviewing is single-blind, therefore
+			there is no requirement to conceal authors or organization identities.</p>
+            
+            <h3>Paper format & fonts</h3>
+            <p>
+			Submissions must be in PDF format using <b>10-point font</b> on 12-point leading, Times-Roman or similar
+			typeface, letter-sized paper, double column, a text block of 6.5 inches wide
+			by 9 inches tall, with numbered pages.
+			A LaTeX template is available <a href="assets/template.tex" target="_blank">here</a>, but authors can use other templates 
+            or editors that conform with the requirements. 
+            <br><br>
+            <a href="assets/template.tex" target="_blank" style="color:red">Latex Template</a>
+            
+            </p>
+            
+
+            <h3>Page limit</h3>
+            <p>
+              Submissions can have up to <b>12 pages</b>, including title, author list, and abstract, but excluding references. 
+            </p>
+
+            <h3>Paper type</h3>
+            <p> After the author list, papers should indicate the submission type (research, experience, vision).</p>
+			
+			
+            <a id="posters"><h2>Posters</h2></a>
+            <p> Details and deadlines for poster submissions will be available in the call for posters. Papers accepted to the conference are automatically allowed to have a poster.</p>
+
+            <a id="submit"><h2>Submission site</h2></a>
+            <p>
+              Will be updated soon!
+            </p>
+
           </div><!-- /.section-content -->
         </section><!-- /.main-content -->
       </div><!-- /.col-md-6 -->
