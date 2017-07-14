@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{% include slider-sponsors.html %}
+
+<!-- Content -->
+<div class="block">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-3">
+        <section class="events small" id="events-small">
+          <header>
+            <h2>Links</h2>
+          </header>
+          <div class="section-content">
+            <ul class="list-links">
+              <li><h4><a href="#goldsponsors">Gold sponsors</a></h4></li>
+	      <li><h4><a href="#silversponsors">Silver sponsors</a></h4></li>
+              <li><h4><a href="#bronzesponsors">Bronze sponsors</a></h4></li>
+            </ul>
+          </div><!-- /.section-content -->
+        </section><!-- /.events-small -->
+      </div><!-- /.col-md-3 -->
+
+      <div class="col-md-6">
+        <section id="main-content">
+          <div class="section-content">
+            <header><h2>Our sponsors</h2></header>
+            <p>
+			  The ACM Symposium on Cloud Computing 2017 (SoCC '17) is the eight in an established series of symposia that bring
+              together researchers, developers, users, and practitioners interested in cloud computing. SoCC is co-sponsored
+              by the ACM Special Interest Groups on Management of Data (SIGMOD) and on Operating Systems (SIGOPS).
+            </p>
+
+            <a id="goldsponsors"><h2>Gold sponsors</h2></a>
+              {% include gold-sponsors.html %}
+            <br>
+            <br>
+            <a id="silversponsors"><h2>Silver sponsors</h2></a>
+              {% include silver-sponsors.html %}
+            <br>
+            <br>
+            <a id="bronzesponsors"><h2>Bronze sponsors</h2></a>
+              {% include bronze-sponsors.html %}
+            <br>
+            <br>
+            <!-- <header><h2>Patrons</h2></header>
+              {% include student-support.html %}
+            <br>-->
+          </div><!-- /.section-content -->
+        </section><!-- /.main-content -->
+      </div><!-- /.col-md-6 -->
+
+      <div class="col-md-3">
+        {% include latest-news.html %}
+      </div><!-- /.col-md-3 -->
+
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div>
+<!-- end Content -->
