@@ -1,0 +1,149 @@
+---
+layout: default
+---
+
+{% include slider-cf-camera-ready-instructions.html %}
+
+<!-- Content -->
+<div class="block">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <section class="events small" id="events-small">
+          <header>
+            <h2>Dates</h2>
+          </header>
+          <div class="section-content">
+            <article class="event nearest">
+              <figure class="date">
+                <div class="month">aug</div>
+                <div class="day">15</div>
+              </figure>
+              <aside>
+                <header>
+                 Camera-ready deadline
+                </header>
+              </aside>
+            </article><!-- /article -->
+            <br>
+          </div><!-- /.section-content -->
+        </section><!-- /.events-small -->
+
+        <section class="events small" id="events-small">
+          <header>
+            <h2>Links</h2>
+          </header>
+          <div class="section-content">
+            <ul class="list-links">
+              <li><h4><a href="#submit">Submission site</a></h4></li>
+			  <li><h4><a href="papers.html">Call for papers</a></h4></li>
+              <li><h4><a href="posters.html">Call for posters</a></h4></li>
+              <li><h4><a href="program-committee.html">Program committee</a></h4></li>
+            </ul>
+          </div><!-- /.section-content -->
+        </section><!-- /.events-small -->
+      </div><!-- /.col-md-3 -->
+
+      <div class="col-md-6">
+        <section id="main-content">
+          
+		  <header>
+            <h1>Camera-ready preparation and copyright assignment</h1>
+          </header>
+          <div class="section-content">
+            <p>
+            These instructions are for the authors of accepted or conditionally accepted papers. 
+            Conditionally accepted papers may be rejected, but authors should still follow the instructions optimistically until told to stop.
+		  <br><br>
+		  Time is short, so start now. Delays or mistakes could cause your paper to be excluded from the conference proceedings.
+            </p>
+			<a id="guidelines"><h2>Guidelines</h2></a>
+			
+			<p>
+			</p><h4>To do now:</h4>
+			<p></p>
+			<ul>
+			<li><p><b style="color:red;">Email</b> the final title and author list to <b>Tyson Condie (tcondie [at] cs [dot] ucla [dot] edu)</b> by <b style="color:red;">28 July 2017</b>, after which no changes are possible (this information will be used for the proceedings). 
+			<br>
+			In your email, use the subject "SoCC final information" and in the body include a single line with the following format (including quotes): <br><br>
+			"Paper Type","Title","Contact (Lead) Author:Affiliation;Author2:Affiliation;Author3:Affiliation;etc.","Contact (Lead) Author e-mail",Author e-mail;Author e-mail"
+			<br><br>
+			For "Paper Type" if you have a regular conference paper then use "Full Paper". If you have a poster abstract, then use "Abstract"
+			<br><br>
+			<b>Sample record:</b> <br>
+
+			"Full Paper","This is a Sample Title","Adrienne Griscti:Association for Computing Machinery;Craig Rodkin:Peace University;John Smith:Hunter Corp.","griscti@hq.acm.org",rodkin@pu.edu;smith@hunter.com
+			</p></li>
+			<li><p>The ACM will invite the lead author to  <b style="color:red;">complete the ACM copyright form online</b>. Do this promptly: this step blocks the rest. 
+			It provides the DOI, rights management text, and bibliographic strip that must be in the paper. The permission and DOI info are on page 
+			2 of the copyright document. If you do not receive an email from the ACM by 10 August, inform Tyson Condie. It is an automatic email, 
+			so check your spam folder and set the spam settings to allow emails from "rightsreview@acm.org".
+			</p></li>
+
+			<li><p>At least one of the authors must  <b style="color:red;">register for the conference</b> to present the paper, so take advantage of the early registration discount.
+			</p></li>
+			</ul>
+			
+			<h4>To do by <b style="color:red;">15 August 2017</b> (<b>Full Papers</b>) and <b style="color:red;">22 August 2017</b> (<b>Poster Abstracts</b>) :</h4>
+			<p>
+    Ship the final camera-ready materials. This includes the final PDF and <b>all source files</b>. The materials should be prepared this way:
+			</p><ul>
+			<li><p>Format the paper using the <a href="assets/camera-ready-tex/acmart.cls" target="_blank">acmart.cls</a> file. Example latex files are <a href="assets/camera-ready-tex/socc-sample.tex" target="_blank">socc-sample.tex</a>, <a href="assets/camera-ready-tex/soccbody-sample.tex" target="_blank">soccbody-sample.tex</a>, and <a href="assets/camera-ready-tex/socc-sample.bib" target="_blank">socc-sample.bib</a>. 
+			Keep  <code>\usepackage{mathptmx}</code> to get correct math mode fonts. This style is a variant of the ACM style that provides a 
+			consistent look and feel for our proceedings. Do not use your own style or the standard ACM styles.
+			</p></li>
+			
+			<li><p>Add the correct rights management statement and bibliographic strip on the bottom of the first page, left column. 
+			You will receive these details after completing your copyright form, after which you may need to replace the one in the template with the one from ACM.
+			</p></li>
+			
+			<li><p> Use only Type 1 fonts (scalable), not Type 3 (bitmapped), and embed all fonts within the PDF. 
+			ACM has documentation on <a href="http://www.acm.org/binaries/content/assets/publications/word-to-pdf-instructions-.txt" target="_blank">how to embed fonts</a> correctly.
+			It refers to the distiller settings file that can be found <a href="http://www.acm.org/binaries/content/assets/publications/acm1.joboptions" target="_blank">here</a>.
+			</p></li>
+			
+			<li><p>Format the paper using using a 10pt font on 12pt leading for letter-sized (8.5" by 11") paper. 
+			The text blocks must follow ACM guidelines: double-column, with each column 3.33" by 9.25"; leave a 0.33" space between columns.
+			</p></li>
+			
+			<li><p>Do not include page numbers.
+			</p></li>
+
+			<li><p>Name your file according to this rule: paperID-lastnameOfFirstAuthor.pdf
+			</p></li>
+			
+			<li><p>Apply keywords and ACM Computing Classification categories and terms. For the classification of your paper follow the scheme <a href="http://www.acm.org/about/class/1998" target="_blank">here</a>.
+			</p></li>
+			
+			<li><p>Follow the page limits in the submission: <br>
+<b>Full Paper</b>: 12 pages including the title page but excluding references. <br>
+    <b>Abstract</b>: 1 page including the title page but excluding references. <br>
+    These limits are strict and final.
+			</p></li>
+			
+			<li><p>Remove the "submission type" line, which you may have included in the submission.
+			</p></li>
+			
+			<li><p>Use the paper-submission site (below) to upload your final camera-ready copy. 
+			</p></li>
+			</ul>
+			<p>
+			If you have any other question regarding the proceedings, contact <b>Tyson Condie (tcondie [at] cs [dot] ucla [dot] edu)</b>. Do not wait.
+			</p>
+            <a id="submit"><h2>Submission site</h2></a>
+            <p>
+			<b style="color:red;">The submission website will be available soon.</b>
+            </p>
+
+          </div><!-- /.section-content -->
+        </section><!-- /.main-content -->
+      </div><!-- /.col-md-6 -->
+
+      <div class="col-md-3">
+        {% include latest-news.html %}
+      </div><!-- /.col-md-3 -->
+
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div>
+<!-- end Content -->
