@@ -4,6 +4,55 @@
       <tr><th class><h4></h4></th><th></th><th></th></tr>
   </thead> -->
   <tbody>
-    <p style="font-size:20px">Coming soon!</p>
+    {% for session in site.data.sessions[include.key] %}
+      <tr>
+        <th class="time-column">
+          <div class="session-time">
+            <div class="session-start">{{session.start}}</div>
+            <div class="session-end">{{session.end}}</div>
+          </div>
+        </th>
+        <th class="session-info">
+          {% assign is_keynote = false %}
+          {% if session.title contains 'Keynote' %}
+            {% assign is_keynote = true %}
+          {% endif %}
+          {% assign showlinks = false %}
+          {% if include.showlinks == "true" %}
+            {% assign showlinks = true %}
+          {% endif %}
+          {% if session.url and (showlinks or is_keynote) %}
+          <a href="{{session.url}}"><h4 class="session-title">{{session.title}}</h4></a>
+          {% else %}
+          <h4 class="session-title"><font style="color:SteelBlue;">{{session.title}}</font></h4>
+          {% endif %}
+          {% if session.chair %}
+            <h4 style="margin-top:4px;"><font style="color:SteelBlue;">Chair: {{session.chair}}</font></h4>
+          {% endif %}
+          <div class="details">
+            {% if session.talks %}
+            <ul class="session-list">
+              {% for talk in session.talks %}
+              <li>
+                {% if talk.url and (showlinks or is_keynote) %}
+                  {% if talk.best %}
+                  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</h4></a>
+                  {% else %}
+                  <a href="{{talk.url}}"><h4 class="talk-title-link">{{ talk.title }}</h4></a>
+                  {% endif %}
+                {% else %}
+                <h4 class="talk-title">{{ talk.title }}</h4>
+                {% endif %}
+                {% assign authors = talk.authors | join: ', ' %}
+                <p class="course-meta" style="line-height:18px;">{{authors}}</p>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </div>
+        </th>
+        <th></th>
+      </tr>
+    {% endfor %}
   </tbody>
 </table>
