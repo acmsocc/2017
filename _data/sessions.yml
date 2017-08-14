@@ -120,7 +120,7 @@ day1:
     - Mung Chiang (Princeton University)
     - Erik Elmroth (Umeå University)
     - David Wentzlaff (Princeton University)
-    title: 'Incentivizing Self-Resource-Capping with Graceful Degradation'
+    title: 'Incentivizing Self-Capping to Increase Cloud Utilization'
   title: Session 3 (Managing the Cloud I)
 - end: 4:30 PM
   start: 4:00 PM
@@ -132,7 +132,7 @@ day1:
   - authors:
     - Supreeth Shastri
     - David Irwin (University of Massachusetts Amherst)
-    title: 'Automaton: Automated High-Frequency Trading in the Cloud'
+    title: 'HotSpot: Automated Server Hopping in Cloud Spot Markets'
   - authors:
     - Rebecca Smith
     - Scott Rixner (Rice University)
