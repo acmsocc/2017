@@ -22,7 +22,7 @@ day1:
     - Josh Kunz
     - Eric Eide
     - Jacobus Van der Merwe (University of Utah)
-    title: 'XNet: Security and Least Authority in a Capability-Enabled Cloud'
+    title: 'CapNet: Security and Least Authority in a Capability-Enabled Cloud'
   - authors:
     - Savvas Savvides (Purdue University)
     - Julian Stephen (IBM Research)
@@ -183,9 +183,9 @@ day2:
     title: 'Search Lookaside Buffer: Efficient Caching for Index Data Structures'
   - authors:
     - Fei Mei
-    - Qiang Cao
-    - Hong Jiang
-    - Lei Tian
+    - Qiang Cao (Huazhong University of Science and Technology)
+    - Hong Jiang (University of Texas at Arlington)
+    - Lei Tian (Tintri, Inc.)
     title: 'LSM-tree Managed Storage for Large-scale Key-value Store'
   - authors:
     - Anand Padmanabha Iyer
