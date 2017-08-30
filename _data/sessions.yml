@@ -112,7 +112,7 @@ day1:
   - authors:
     - Pawel Janus
     - Krzysztof Rzadca (University of Warsaw, Poland)
-    title: 'SLA-aware Colocation of Data Center Tasks Based on Instantaneous Resource Requirements'
+    title: 'SLO-aware Colocation of Data Center Tasks Based on Instantaneous Resource Requirements'
   - authors:
     - Mohammad Shahrad (Princeton University)
     - Cristian Klein (Umeå University)
