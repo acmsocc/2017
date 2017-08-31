@@ -316,10 +316,15 @@ day2:
   start: 5:50 PM
   talks: []
   title: Mini-break  
-- end: 8:00 PM
+- end: 7:30 PM
   start: 6:00 PM
   talks: []
   title: Poster session II  
+- end: 9:00 PM
+  start: 7:30 PM
+  talks: []
+  title: Conference Banquet
+
 day3:
 - end: 9:00 AM
   start: 7:30 AM
