@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% include slider-keynotes.html %}
+
+<!-- Content -->
+<div class="block">
+<div class="container">
+<div class="row">
+  <div class="col-md-9">
+    <section id="main-content">
+      <div class="section-content">
+        <h2>Keynote Speakers</h2>
+        {% include keynote-speaker.html key="raghu" photo="assets/img/raghu.jpg" %}
+        <br />
+        {% include keynote-speaker.html key="anurag" photo="assets/img/anurag.jpg" %}
+        <br />
+        {% include keynote-speaker.html key="magda" photo="assets/img/magda.jpg" %}
+      </div><!-- /.section-content -->
+    </section><!-- /.main-content -->
+  </div><!-- /.col-md-9 -->
+
+  <div class="col-md-3">
+    {% include latest-news.html %}
+  </div><!-- /.col-md-3 -->
+
+</div><!-- /.row -->
+</div><!-- /.container -->
+</div>
+<!-- end Content -->

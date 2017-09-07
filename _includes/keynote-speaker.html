@@ -10,10 +10,14 @@
       <figure>{{speaker.title}}</figure>
       {% endif %}
     <hr>
-    <h3 class="speaker-header">Abstract</h3>
-    <p style="color:#373737;">{{speaker.abstract}}</p>
-    <h3 class="speaker-header">Bio</h3>
-    <p style="color:#373737;">{{speaker.bio1}}</p>
+	{% if speaker.abstract %}
+		<h3 class="speaker-header">Abstract</h3>
+		<p style="color:#373737;">{{speaker.abstract}}</p>
+	{% endif %}
+	{% if speaker.bio1 %}
+		<h3 class="speaker-header">Bio</h3>
+		<p style="color:#373737;">{{speaker.bio1}}</p>
+	{% endif %}
     {% if speaker.bio2 %}
       <p style="color:#373737;">{{speaker.bio2}}</p>
     {% endif %}
