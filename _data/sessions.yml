@@ -157,6 +157,7 @@ day1:
   start: 6:00 PM
   talks: []
   title: Poster session I
+  url: "poster-schedule.html"
   
 day2:
 - end: 9:00 AM
@@ -320,6 +321,7 @@ day2:
   start: 6:00 PM
   talks: []
   title: Poster session II  
+  url: "poster-schedule.html"
 - end: 9:00 PM
   start: 7:30 PM
   talks: []
