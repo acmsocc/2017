@@ -262,7 +262,7 @@ day2:
     - Marco Serafini
     - Gianmarco De Francisci Morales
     - Georgos Siganos (Qatar Computing Research Institute)
-    title: 'QGraph: Distributed Graph Search via Subgraph Isomorphism'
+    title: 'QFrag: Distributed Graph Search via Subgraph Isomorphism'
   - authors:
     - Yuanyuan Sun, Yu Hua (Huazhong University of Science and Technology)
     - Xue Liu (McGill University)
