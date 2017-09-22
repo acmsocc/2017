@@ -8,8 +8,8 @@ raghu:
 anurag:
   name: 'Anurag Gupta (Amazon Web Services)'
   bio1: "Anurag Gupta is a Vice President at Amazon Web Services, where he is responsible for a number of transaction and analytic services. His transaction services are Amazon Aurora, a commercial-grade database compatible with MySQL and PostgreSQL, RDS MariaDB, RDS MySQL, and RDS PostgreSQL. His analytic services are Amazon Athena, a serverless query service, Amazon CloudSearch and Amazon ElasticSearch, managed search services, Amazon Redshift, a data warehousing service, and AWS Data Pipeline and AWS Glue, managed ETL services. Prior to Amazon, Anurag worked at a number of startups (Arbor, TradingDynamics, Interlace) and the companies that eventually acquired them (Hyperion, Ariba, Oracle). He began his career as a database kernel programmer at Oracle."
-  title: 'Technology Trends in Cloud-Native Databases'
-  abstract: "Anurag will provide an AWS perspective on the customer and technology trends shaping how we think about what we do in the database space."
+  title: 'Modern database architectures and the network bottleneck'
+  abstract: "In this talk, we discuss how the bottleneck in database architectures has moved from CPU to IO to the network today. We then explore how AWS has addressed this with architectures like Amazon Aurora or Amazon Redshift Spectrum. We close with our beliefs on how data architectures will evolve in future."
   
 magda:
   name: 'Magda Balazinska (University of Washington)'
