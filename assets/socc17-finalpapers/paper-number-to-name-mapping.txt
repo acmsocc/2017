@@ -1,0 +1,142 @@
+#17	FSP: Towards Flexible Synchronous Parallel Framework for Expectation-Maximization based Algorithms on Cloud 
+Authors: Zhigang Wang (Northeastern University); Lixin Gao (University of Massachusetts Amherst); Yu Gu, Yubin Bao, Ge Yu (Northeastern University)
+
+#18	Trustable Virtual Machine Scheduling in a Cloud [PDF]
+Authors: Fabien Hermenier (Nutanix); Ludovic Henrio (Université Côte d’Azur, CNRS, I3S)
+
+#23	Search Lookaside Buffer: Efficient Caching for Index Data Structures 
+Authors: Xingbo Wu, Fan Ni, Song Jiang (University of Texas at Arlington)
+
+#27	Architectural Implications on the Performance and Cost of Graph Analytics Systems 
+Authors: Qizhen Zhang (University of Pennsylvania); Hongzhi Chen (Chinese University of Hong Kong); Da Yan (University of Alabama at Birmingham); James Cheng (Chinese University of Hong Kong); Boon Thau Loo (University of Pennsylvania); Purushotham Bangalore (University of Alabama at Birmingham)
+
+ #30	Incentivizing Self-Capping to Increase Cloud Utilization
+Authors: Mohammad Shahrad (Princeton University); Cristian Klein (Umeå University); Liang Zheng (Princeton University); Mung Chiang (Princeton University/Purdue University); Erik Elmroth (Umeå University); David Wentzlaff (Princeton University)
+
+#32	Mithril: mining sporadic associations for cache prefetching
+Authors: Juncheng Yang, Reza Karimi (Emory University); Trausti Saemundsson (CachePhysics); Avani Wildani, Ymir Vigfusson (Emory University)
+
+#56	GLoop: An Event-driven Runtime for Consolidating GPGPU Applications
+Authors: Yusuke Suzuki (Keio University); Hiroshi Yamada (TUAT); Shinpei Kato (The University of Tokyo); Kenji Kono (Keio University)
+
+#59	APUS: Fast and Scalable PAXOS on RDMA
+Authors: Cheng Wang, Jianyu Jiang, Xusheng Chen, Ning Yi, Heming Cui (The University of Hong Kong)
+	#71	No Data Left Behind: Real-Time Insights from a Complex Data Ecosystem
+Authors: Manos Karpathiotakis (EPFL); Avrilia Floratou (Microsoft); Fatma Ozcan (IBM Research); Anastasia Ailamaki (EPFL)
+
+#73	Remote memory in the age of fast networks
+Authors: Marcos K. Aguilera, Nadav Amit, Irina Calciu, Xavier Deguillard, Jayneel Gandhi, Pratap Subrahmanyam, Lalith Suresh, Kiran Tati, Rajesh Venkatasubramanian, Michael Wei (VMware)
+
+#75	CapNet: Security and Least Authority in a Capability-Enabled Cloud
+Authors: Anton Burtsev (University of California, Irvine); David Johnson, Josh Kunz, Eric Eide, Jacobus Van der Merwe (University of Utah)
+
+#85	LSM-tree Managed Storage for Large-Scale Key-Value Store
+Authors: Fei Mei, Qiang Cao (Huazhong University of Science and Technology); Hong Jiang (University of Texas at Arlington); Lei Tian (Tintri)
+	
+#86	HyperNF: Building a High Performance, High Utilization and Fair NFV Platform
+Authors: Kenichi Yasukata, Felipe Huici (NEC Laboratories Europe); Vincenzo Maffione, Giuseppe Lettieri (University of Pisa); Michio Honda (NEC Laboratories Europe)
+
+#90	Workload Analysis and Caching Strategies for Search Advertising Systems 
+Authors: Conglong Li, David G. Andersen (Carnegie Mellon University); Qiang Fu (Microsoft); Sameh Elnikety, Yuxiong He (Microsoft Research)
+
+#91	Prism: A Proxy Architecture for Datacenter Networks
+Authors: Yutaro Hayakawa (Keio University); Lars Eggert (NetApp); Michio Honda (NEC Laboratories Europe); Douglas Santry (NetApp)
+
+#92	Towards Automatic Parameter Tuning of Stream Processing Systems
+Authors: Muhammad Bilal (Universite catholiqué de Louvain); Marco Canini (KAUST)
+
+#99	STYX: A Trusted and Accelerated Hierarchical SSL Key Management and Distribution System for Cloud Based CDN Application
+Authors: Changzheng Wei (Intel Asia-Pacific Research & Development Ltd.); Jian Li (Shanghai Jiao Tong University); Weigang Li, Ping Yu (Intel Asia-Pacific Research & Development Ltd.); Haibing Guan (Shanghai Jiao Tong University)
+
+#103	QFrag: Distributed Graph Search via Subgraph Isomorphism
+Authors: Marco Serafini, Gianmarco De Francisci Morales, Georgos Siganos (Qatar Computing Research Institute)
+
+#104	A Robust Partitioning Scheme for Ad-Hoc Query Workloads
+Authors: Anil Shanbhag (MIT); Alekh Jindal (Microsoft); Samuel Madden (MIT); Jorge Quiane (QCRI); Aaron Elmore (University of Chicago)
+
+#106	DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing
+Authors: Yuanyuan Sun, Yu Hua (Huazhong University of Science and Technology); Xue Liu (McGill University); Shunde Cao, Pengfei Zuo (Huazhong University of Science and Technology)
+
+#111	SLO-aware Colocation of Data Center Tasks Based on Instantaneous Processor Requirement
+Authors: Pawel Janus, Krzysztof Rzadca (University of Warsaw, Poland)
+
+#115	Preserving I/O Prioritization in Virtualized OSes
+Authors: Kun Suo, Yong Zhao, Jia Rao (The University of Texas at Arlington); Luwei Cheng (Facebook); Xiaobo Zhou (The University of Colorado, Colorado Springs); Francis C. M. Lau (The University of Hong Kong)
+
+#124	A Policy-Based System for Dynamic Scaling of Virtual Machine Memory Reservations
+Authors: Rebecca Smith, Scott Rixner (Rice University)
+
+#127	PBSE: A Robust Path-Based Speculative Execution for Degraded-Network Tail Tolerance in Data-Parallel Frameworks
+Authors: Riza O. Suminto, Cesar A. Stuardo, Alexandra Clark, Huan Ke, Tanakorn Leesatapornwongsa, Bo Fu (University of Chicago); Daniar H. Kurniawan (Bandung Institute of Technology); Vincentius Martin (Surya University); Uma Maheswara Rao. G. (Intel Corporation); Haryadi S. Gunawi (University of Chicago)
+
+#144	Polygravity: Traffic Usage Accountability via Coarse-grained Measurements in Multi-tenant Data Centers
+Authors: Hyunwook Baek (University of Utah); Cheng Jin (University of Minnesota); Guofei Jiang, Cristian Lumezanu (NEC Labs America); Jacobus Van der Merwe (University of Utah); Ning Xia, Qiang Xu (NEC Labs America)
+
+#148	Distributed Shared Persistent Memory
+Authors: Yizhou Shan, Shin-Yeh Tsai, Yiying Zhang (Purdue University)
+
+#152	BestConfig: Tapping the Performance Potential of Systems via Automatic Configuration Tuning
+Authors: Yuqing Zhu, Jianxun Liu, Mengying Guo, Yungang Bao, Wenlong Ma (State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences); Zhuoyue Liu, Kunpeng Song, Yingchun Yang (Huawei)
+
+#156	A Machine Learning Approach to Live Migration Modeling
+Authors: Changyeon Jo, Youngsu Cho, Bernhard Egger (Seoul National University)
+
+#167	Latency Reduction and Load Balancing in Coded Storage Systems
+Authors: Yaochen Hu, Yushi Wang, Bang Liu, Di Niu (University of Alberta); Cheng Huang (Microsoft Research Redmond)
+
+#192	On-demand Virtualization for Live Migration in Bare Metal Cloud
+Authors: Jaeseong Im, Jongyul Kim, Jonguk Kim (KAIST); Seongwook Jin (KIWIPLUS); Seungryoul Maeng (KAIST)
+
+#195	SLAQ: Quality-Driven Scheduling for Distributed Machine Learning
+Authors: Haoyu Zhang, Logan Stafman, Andrew Or, Michael J. Freedman (Princeton University)
+
+#198	Practical Whole-System Provenance Capture
+Authors: Thomas Pasquier, Xueyuan Han, Mark Goldstein (Harvard University); Thomas Moyer (UNC Charlotte); David Eyers (University of Otago); Margo Seltzer (Harvard University); Jean Bacon (University of Cambridge)
+
+#206	Processing Java UDFs in a C++ environment
+Authors: Viktor Rosenfeld (Technische Universität Berlin); Rene Mueller (Bern University of Applied Sciences); Pinar Tözün, Fatma Özcan (IBM Research - Almaden)
+
+#215	An Experimental Comparison of Complex Object Implementations for Big Data Systems
+Authors: Sourav Sikdar, Kia Teymourian, Christopher Jermaine (Rice University)
+
+#221	Occupy the Cloud: Distributed Computing for the 99%
+Authors: Eric Jonas, Qifan Pu, Shivaram Venkataraman, Ion Stoica, Benjamin Recht (UC Berkeley)
+
+#222	Selecting the Best VM across Multiple Public Clouds: A Data-Driven Performance Modeling Approach
+Authors: Neeraja J. Yadwadkar (University of California, Berkeley); Bharath Hariharan (Facebook AI Research); Joseph E. Gonzalez (University of California, Berkeley); Burton Smith (Microsoft Research); Randy H. Katz (University of California, Berkeley)
+
+#224	AidOps: A Data-Driven Provisioning of High-Availability Services in Cloud
+Authors: Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia Bell Labs)
+
+#227	Secure Data Types: A Simple Abstraction for Confidentiality-Preserving Data Analytics
+Authors: Savvas Savvides (Purdue University); Julian Stephen (IBM Research); Masoud Saieda Ardekani (Purdue University); Vinaitheerthan Sundaram (SensorHound, Inc); Patrick Eugster (TU Darmstadt)
+
+#230	HotSpot: Automated Server Hopping in Cloud Spot Markets
+Authors: Supreeth Shastri, David Irwin (University of Massachusetts Amherst)
+
+#231	UNO: Unifying Host and Smart NIC Offload for Flexible Packet Processing
+Authors: Yanfang Le (University of Wisconsin-Madison); Hyunseok Chang, Sarit Mukherjee, Limin Wang (Nokia Bell Labs); Aditya Akella, Michael M. Swift (University of Wisconsin-Madison); T.V. Lakshman (Nokia Bell Labs)
+
+#244	Automated Debugging in Data-Intensive Scalable Computing
+Authors: Muhammad Ali Gulzar (UCLA); Matteo Interlandi (Microsoft); Xueyuan Han (Harvard University); Mingda Li, Tyson Condie, Miryung Kim (UCLA)
+
+#246	Sketches of Space: Ownership Accounting for Shared Storage
+Authors: Jake Wires, Pradeep Ganesan, Andrew Warfield (Coho Data)
+
+#247	A Scalable Distributed Spatial Index for the Internet-of-Things
+Authors: Anand Padmanabha Iyer, Ion Stoica (UC Berkeley)
+
+#249	ALOHA-KV: High Performance Read-only and Write-only Distributed Transactions
+Authors: Hua Fan, Wojciech Golab (University of Waterloo); Charles B. Morrey III (unaffiliated)
+
+#250	Analysis of TPC-DS - the First Standard Benchmark for SQL-Based Big Data Systems
+Authors: Meikel Poess (Oracle); Tilmann Rabl (TU Berlin); Hans-Arno Jacobsen (TU Munich)
+
+#265	Optimized On-Demand Data Streaming from Sensor Nodes
+Authors: Jonas Traub (Technische Universität Berlin); Sebastian Breß, Tilmann Rabl (Technische Universität Berlin / German Research Center for Artificial Intelligence (DFKI)); Asterios Katsifodimos (SAP Innovation Center); Volker Markl (Technische Universität Berlin / German Research Center for Artificial Intelligence (DFKI))
+
+#273	WorkloadCompactor: Reducing datacenter cost while providing tail latency SLO guarantees
+Authors: Timothy Zhu (The Pennsylvania State University); Michael A. Kozuch (Intel Labs); Mor Harchol-Balter (Carnegie Mellon University)
+
+#285	Distributed Resource Management across Process Boundaries
+Authors: Lalith Suresh (VMWare Research); Peter Bodik, Ishai Menache (Microsoft Research); Marco Canini (KAUST); Florin Ciucu (University of Warwick)
