@@ -24,6 +24,7 @@ day1:
     - Eric Eide
     - Jacobus Van der Merwe (University of Utah)
     title: 'CapNet: Security and Least Authority in a Capability-Enabled Cloud'
+    url: 'assets/socc17-finalpapers/socc17-final75-acmpaginated.pdf'
   - authors:
     - Savvas Savvides (Purdue University)
     - Julian Stephen (IBM Research)
@@ -31,6 +32,7 @@ day1:
     - Vinaitheerthan Sundaram (SensorHound, Inc)
     - Patrick Eugster (TU Darmstadt)
     title: 'Secure Data Types: A Simple Abstraction for Confidentiality-Preserving Data Analytics'
+    url: 'assets/socc17-finalpapers/socc17-final227-acmpaginated.pdf'
   - authors:
     - Thomas Pasquier
     - Xueyuan Han
@@ -40,6 +42,7 @@ day1:
     - David Eyers (University of Otago)
     - Jean Bacon (University of Cambridge)
     title: 'Practical Whole-System Provenance Capture'
+    url: 'assets/socc17-finalpapers/socc17-final198-acmpaginated.pdf'
   - authors:
     - Changzhen Wei (Intel Asia-Pacific Research & Development Ltd.)
     - Jian Li (Shanghai Jiao Tong University)
@@ -47,6 +50,7 @@ day1:
     - Ping Yu (Intel Asia-Pacific Research & Development Ltd.)
     - Haibing Guan (Shanghai Jiao Tong University)
     title: 'STYX: A Trusted and Accelerated Hierarchical SSL Key Management and Distribution System for Cloud Based CDN Application'
+    url: 'assets/socc17-finalpapers/socc17-final99-acmpaginated.pdf'
   title: 'Session 1 (Securing the Cloud)'
 - end: 10:50 AM
   start: 10:20 AM
@@ -62,16 +66,19 @@ day1:
     - Ning Yi
     - Heming Cui (The University of Hong Kong)
     title: 'APUS: Fast and Scalable PAXOS on RDMA'
+    url: 'assets/socc17-finalpapers/socc17-final59-acmpaginated.pdf'
   - authors:
     - Hua Fan
     - Wojciech Golab (University of Waterloo)
     - Charles B. Morrey III (unaffiliated)
     title: 'ALOHA-KV: High Performance Read-only and Write-only Distributed Transactions'
+    url: 'assets/socc17-finalpapers/socc17-final249-acmpaginated.pdf'
   - authors:
     - Jake Wires
     - Pradeep Ganesan
     - Andrew Warfield (Coho Data)
     title: 'Sketches of Space: Ownership Accounting for Shared Storage'
+    url: 'assets/socc17-finalpapers/socc17-final246-acmpaginated.pdf'
   - authors:
     - Yaochen Hu
     - Yushi Wang
@@ -79,6 +86,7 @@ day1:
     - Di Niu (University of Alberta)
     - Cheng Huang (Microsoft Research Redmond)
     title: 'Latency Reduction and Load Balancing in Coded Storage Systems'
+    url: 'assets/socc17-finalpapers/socc17-final167-acmpaginated.pdf'
   title: Session 2 (The Stateful Cloud)
 - end: 1:30 PM
   start: 12:10 PM
@@ -103,6 +111,7 @@ day1:
     - Michael A. Kozuch (Intel Labs)
     - Mor Harchol-Balter (Carnegie Mellon University)
     title: 'WorkloadCompactor: Reducing datacenter cost while providing tail latency SLO guarantees'
+    url: 'assets/socc17-finalpapers/socc17-final273-acmpaginated.pdf'
   - authors:
     - Yuqing Zhu
     - Jianxun Liu
@@ -111,10 +120,12 @@ day1:
     - Kunpeng Song
     - Zhuoyue Liu (Huawei)
     title: 'BestConfig: Tapping the Performance Potential of Systems via Configuration Adjustment'
+    url: 'assets/socc17-finalpapers/socc17-final152-acmpaginated.pdf'
   - authors:
     - Pawel Janus
     - Krzysztof Rzadca (University of Warsaw, Poland)
     title: 'SLO-aware Colocation of Data Center Tasks Based on Instantaneous Resource Requirements'
+    url: 'assets/socc17-finalpapers/socc17-final111-acmpaginated.pdf'
   - authors:
     - Mohammad Shahrad (Princeton University)
     - Cristian Klein (Umeå University)
@@ -123,6 +134,7 @@ day1:
     - Erik Elmroth (Umeå University)
     - David Wentzlaff (Princeton University)
     title: 'Incentivizing Self-Capping to Increase Cloud Utilization'
+    url: 'assets/socc17-finalpapers/socc17-final30-acmpaginated.pdf'
   title: Session 3 (Managing the Cloud I)
 - end: 4:30 PM
   start: 4:00 PM
@@ -135,14 +147,17 @@ day1:
     - Supreeth Shastri
     - David Irwin (University of Massachusetts Amherst)
     title: 'HotSpot: Automated Server Hopping in Cloud Spot Markets'
+    url: 'assets/socc17-finalpapers/socc17-final230-acmpaginated.pdf'
   - authors:
     - Rebecca Smith
     - Scott Rixner (Rice University)
     title: 'A Policy-Based System for Dynamic Scaling of Virtual Machine Memory Reservations'
+    url: 'assets/socc17-finalpapers/socc17-final124-acmpaginated.pdf'
   - authors:
     - Fabien Hermenier (Nutanix inc.)
     - Ludovic Henrio (Université Côte d’Azur, CNRS, I3S)
     title: 'Trustable Virtual Machine Scheduling in a Cloud'
+    url: 'assets/socc17-finalpapers/socc17-final18-acmpaginated.pdf'
   - authors:
     - Lalith Suresh (VMWare Research)
     - Peter Bodik
@@ -150,6 +165,7 @@ day1:
     - Marco Canini (KAUST)
     - Florin Ciucu (University of Warwick)
     title: 'Distributed Resource Management across Process Boundaries'
+    url: 'assets/socc17-finalpapers/socc17-final285-acmpaginated.pdf'
   title: Session 4 (Managing the Cloud II)
 - end: 6:00 PM
   start: 5:50 PM
@@ -186,23 +202,27 @@ day2:
     - Fan Ni
     - Song Jiang (University of Texas, Arlington)
     title: 'Search Lookaside Buffer: Efficient Caching for Index Data Structures'
+    url: 'assets/socc17-finalpapers/socc17-final23-acmpaginated.pdf'
   - authors:
     - Fei Mei
     - Qiang Cao (Huazhong University of Science and Technology)
     - Hong Jiang (University of Texas at Arlington)
     - Lei Tian (Tintri, Inc.)
     title: 'LSM-tree Managed Storage for Large-scale Key-value Store'
+    url: 'assets/socc17-finalpapers/socc17-final85-acmpaginated.pdf'
   - authors:
     - Anand Padmanabha Iyer
     - Ion Stoica (UC Berkeley)
     title: 'A Scalable Distributed Spatial Index for the Internet-of-Things'
+    url: 'assets/socc17-finalpapers/socc17-final247-acmpaginated.pdf'
   - authors:
     - Juncheng Yang
     - Reza Karimi (Emory University)
     - Trausti Sæmundsson (CachePhysics)
     - Avani Wildani
     - Ymir Vigfusson (Emory University)
-    title: 'Mithril: mining sporadic associations for cache prefetching'
+    title: 'Mithril: Mining Sporadic Associations for Cache Prefetching'
+    url: 'assets/socc17-finalpapers/socc17-final32-acmpaginated.pdf'
   - authors:
     - Conglong Li
     - David G. Andersen (Carnegie Mellon University)
@@ -210,6 +230,7 @@ day2:
     - Sameh Elnikety
     - Yuxiong He (Microsoft Research)
     title: 'Workload Analysis and Caching Strategies for Search Advertising Systems'	
+    url: 'assets/socc17-finalpapers/socc17-final90-acmpaginated.pdf'
   title: 'Session 5 (Indexing/Caching the Cloud)'
 - end: 1:30 PM
   start: 12:10 PM
@@ -228,13 +249,15 @@ day2:
     - Michael Swift (University of Wisconsin-Madison)
     - T.V. Lakshman (Nokia Bell Labs)
     title: 'UNO: Unifying Host and Smart NIC Offload for Flexible Packet Processing'
+    url: 'assets/socc17-finalpapers/socc17-final231-acmpaginated.pdf'
   - authors:
     - Diego Lugones
     - Jordi Arjona Aroca
     - Yue Jin
     - Alessandra Sala
     - Volker Hilt (Nokia Bell Labs)
-    title: 'AidOps: A Data-Driven Provisioning of Virtual Network Functions'
+    title: 'AidOps: A Data-Driven Provisioning of High-Availability Services in Cloud'
+    url: 'assets/socc17-finalpapers/socc17-final224-acmpaginated.pdf'
   - authors:
     - Kenichi Yasukata
     - Felipe Huici (NEC Laboratories Europe)
@@ -242,12 +265,14 @@ day2:
     - Giuseppe Lettieri (University of Pisa)
     -  Michio Honda (NEC Laboratories Europe)
     title: 'HyperNF: Building a High Performance, High Utilization and Fair NFV Platform'
+    url: 'assets/socc17-finalpapers/socc17-final86-acmpaginated.pdf'
   - authors:
     - Yutaro Hayakawa (Keio University)
     - Lars Eggert (NetApp)
     - Michio Honda (NEC Laboratories Europe)
     - Douglas Santry (NetApp)
     title: 'Prism: A Proxy Architecture for Datacenter Networks [VISION]'
+    url: 'assets/socc17-finalpapers/socc17-final91-acmpaginated.pdf'
   title: Session 6 (Networking the Cloud)
 - end: 3:00 PM
   start: 2:50 PM
@@ -264,17 +289,20 @@ day2:
     - Boon Thau Loo (University of Pennsylvania)
     - Purushotham Bangalore (University of Alabama at Birmingham)
     title: 'Architectural Implications on the Performance and Cost of Graph Analytics Systems'
+    url: 'assets/socc17-finalpapers/socc17-final27-acmpaginated.pdf'
   - authors:
     - Marco Serafini
     - Gianmarco De Francisci Morales
     - Georgos Siganos (Qatar Computing Research Institute)
     title: 'QFrag: Distributed Graph Search via Subgraph Isomorphism'
+    url: 'assets/socc17-finalpapers/socc17-final103-acmpaginated.pdf'
   - authors:
     - Yuanyuan Sun, Yu Hua (Huazhong University of Science and Technology)
     - Xue Liu (McGill University)
     - Shunde Cao
     - Pengfei Zuo (Huazhong University of Science and Technology)
     title: 'DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing'
+    url: 'assets/socc17-finalpapers/socc17-final106-acmpaginated.pdf'
   title: Session 7 (Your friendly neighborhood Cloud)
 - end: 4:30 PM
   start: 4:00 PM
@@ -295,6 +323,7 @@ day2:
     - Uma Maheswara Rao G. (Intel Corporation)
     - Haryadi S. Gunawi (University of Chicago)
     title: 'PBSE: A Robust Path-Based Speculative Execution for Degraded-Network Tail Tolerance in Data-Parallel Frameworks'
+    url: 'assets/socc17-finalpapers/socc17-final127-acmpaginated.pdf'
   - authors:
     - Anil Shanbhag (MIT)
     - Alekh Jindal (Microsoft)
@@ -302,6 +331,7 @@ day2:
     - Jorge Quiane (QCRI)
     - Aaron Elmore (University of Chicago)
     title: 'A Robust Partitioning Scheme for Ad-Hoc Query Workloads'
+    url: 'assets/socc17-finalpapers/socc17-final104-acmpaginated.pdf'
   - authors:
     - Muhammad Ali Gulzar
     - Matteo Interlandi (UCLA)
@@ -310,6 +340,7 @@ day2:
     - Tyson Condie
     - Miryung Kim (UCLA)
     title: 'Automated Debugging in Data-Intensive Scalable Computing'
+    url: 'assets/socc17-finalpapers/socc17-final244-acmpaginated.pdf'
   - authors:
     - Eric Jonas
     - Qifan Pu
@@ -317,6 +348,7 @@ day2:
     - Ion Stoica
     - Benjamin Recht (UC Berkeley)
     title: 'Occupy the Cloud: Distributed Computing for the 99% [VISION]'
+    url: 'assets/socc17-finalpapers/socc17-final221-acmpaginated.pdf'
   title: Session 8 (Data Processing in the Cloud)
 - end: 6:00 PM
   start: 5:50 PM
@@ -358,12 +390,14 @@ day3:
     - Shin-Yeh Tsai
     - Yiying Zhang (Purdue University)
     title: 'Distributed Shared Persistent Memory'
+    url: 'assets/socc17-finalpapers/socc17-final148-acmpaginated.pdf'
   - authors:
     - Yusuke Suzuki (Keio University)
     - Hiroshi Yamada (TUAT)
     - Shinpei Kato (University of Tokyo)
     - Kenji Kono (Keio University)
     title: 'GLoop: An Event-driven Runtime for Consolidating GPGPU Applications'
+    url: 'assets/socc17-finalpapers/socc17-final56-acmpaginated.pdf'
   - authors:
     - Marcos K. Aguilera
     - Nadav Amit
@@ -376,6 +410,7 @@ day3:
     - Rajesh Venkatasubramanian
     - Michael Wei (VMware)
     title: 'Remote memory in the age of fast networks  [VISION]'
+    url: 'assets/socc17-finalpapers/socc17-final73-acmpaginated.pdf'
   - authors:
     - Kun Suo
     - Yong Zhao
@@ -384,12 +419,14 @@ day3:
     - Xiaobo Zhou (The University of Colorado, Colorado Springs)
     - Francis C. M. Lau (The University of Hong Kong)
     title: 'Preserving I/O Prioritization in Virtualized OSes'
+    url: 'assets/socc17-finalpapers/socc17-final115-acmpaginated.pdf'
   - authors:
     - Viktor Rosenfeld (TU Berlin)
     - Rene Mueller
     - Pinar Tozun
     - Fatma Ozcan (IBM Research Almaden)
     title: 'Processing Java UDFs in a C++ environment'
+    url: 'assets/socc17-finalpapers/socc17-final206-acmpaginated.pdf'
   title: 'Session 9 (The Cloud is the OS is the Cloud)'
 - end: 1:30 PM
   start: 12:10 PM
@@ -404,11 +441,13 @@ day3:
     - Kia Teymourian
     - Christopher Jermaine (Rice University)
     title: 'An Experimental Comparison of Complex Object Implementations for Big Data Systems'
+    url: 'assets/socc17-finalpapers/socc17-final215-acmpaginated.pdf'
   - authors:
     - Meikel Poess (Oracle)
     - Tilmann Rabl (TU Berlin)
     - Hans-Arno Jacobsen (TU Munich)
-    title: 'Analysis of the First Standard Benchmark for SQL-Based Big Data Systems'
+    title: 'Analysis of TPC-DS - the First Standard Benchmark for SQL-Based Big Data Systems'
+    url: 'assets/socc17-finalpapers/socc17-final250-acmpaginated.pdf'
   - authors:
     - Neeraja J. Yadwadkar (University of California, Berkeley)
     - Bharath Hariharan (Facebook AI Research)
@@ -416,6 +455,7 @@ day3:
     - Burton Smith (Microsoft Research)
     - Randy Katz (University of California, Berkeley
     title: 'Selecting the Best VM across Multiple Public Clouds: A Data-Driven Performance Modeling Approach'
+    url: 'assets/socc17-finalpapers/socc17-final222-acmpaginated.pdf'
   - authors:
     - Hyunwook Baek (University of Utah)
     - Cheng Jin (University of Minnesota)
@@ -425,6 +465,7 @@ day3:
     - Ning Xia
     - Qiang Xu (NEC Labs America)
     title: 'Polygravity: Traffic Usage Accountability via Coarse-grained Measurements in Multi-tenant Data Centers'
+    url: 'assets/socc17-finalpapers/socc17-final144-acmpaginated.pdf'
   title: Session 10 (The Data-driven Cloud)
 - end: 3:00 PM
   start: 2:50 PM
@@ -440,16 +481,19 @@ day3:
     - Asterios Katsifodimos (SAP Germany)
     - Volker Markl (Technische Universität Berlin)
     title: 'Optimized On-Demand Data Streaming from Sensor Nodes'
+    url: 'assets/socc17-finalpapers/socc17-final265-acmpaginated.pdf'
   - authors:
     - Manos Karpathiotakis (EPFL)
     - Avrilia Floratou (Microsoft)
     - Fatma Ozcan (IBM Research)
     - Anastasia Ailamaki (EPFL)
     title: 'No Data Left Behind: Real-Time Insights from a Complex Data Ecosystem'
+    url: 'assets/socc17-finalpapers/socc17-final71-acmpaginated.pdf'
   - authors:
     - Muhammad Bilal (Universite catholiqué de Louvain and KAUST)
     - Marco Canini (KAUST)
     title: 'Towards Automatic Parameter Tuning of Stream Processing Systems'
+    url: 'assets/socc17-finalpapers/socc17-final92-acmpaginated.pdf'
   title: Session 11 (Streaming the Cloud)
 - end: 4:30 PM
   start: 4:00 PM
@@ -465,17 +509,20 @@ day3:
     - Yubin Bao
     - Ge Yu (Northeastern University)
     title: 'FSP: Towards Flexible Synchronous Parallel Framework for Expectation-Maximization based Algorithms on Cloud'
+    url: 'assets/socc17-finalpapers/socc17-final17-acmpaginated.pdf'
   - authors:
     - Haoyu Zhang
     - Logan Stafman
     - Andrew Or
     -  Michael J. Freedman (Princeton University)
     title: 'SLAQ: Quality-Driven Scheduling for Distributed Machine Learning'
+    url: 'assets/socc17-finalpapers/socc17-final195-acmpaginated.pdf'
   - authors:
     - Changyeon Jo
     - Youngsu Cho
     - Bernhard Egger (Seoul National University)
     title: 'A Machine Learning Approach to Live Migration Modeling'
+    url: 'assets/socc17-finalpapers/socc17-final156-acmpaginated.pdf'
   - authors:
     - Jaeseong Im
     - Jongyul Kim
@@ -483,5 +530,6 @@ day3:
     - Seongwook Jin (KIWIPLUS)
     - Seungryoul Maeng (School of Computing, KAIST)
     title: 'On-demand Virtualization for Live Migration in Bare Metal Cloud'
+    url: 'assets/socc17-finalpapers/socc17-final192-acmpaginated.pdf'
   title: Session 12 (Learning and Migration in the Cloud)
 
