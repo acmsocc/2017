@@ -26,6 +26,9 @@
           {% else %}
           <h4 class="session-title"><font style="color:SteelBlue;">{{session.title}}</font></h4>
           {% endif %}
+		  {% if session.chair %}
+            <h4 style="margin-top:4px;"><font style="color:SteelBlue;">Chair: {{session.chair}}</font></h4>
+		  {% endif %}
           {% if session.location %}
             <h4 style="margin-top:4px;"><font style="color:black;">Location: {{session.location}}</font></h4>
           {% endif %}
@@ -37,6 +40,8 @@
                 {% if talk.url and (showlinks or is_keynote) %}
                   {% if talk.best %}
                   <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</h4></a>
+				  {% elsif talk.bestvision %}
+				  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best Vision paper]</font> {{ talk.title }}</h4></a>
                   {% else %}
                   <a href="{{talk.url}}"><h4 class="talk-title-link">{{ talk.title }}</h4></a>
                   {% endif %}

@@ -52,6 +52,7 @@ day1:
     title: 'STYX: A Trusted and Accelerated Hierarchical SSL Key Management and Distribution System for Cloud Based CDN Application'
     url: 'assets/socc17-finalpapers/socc17-final99-acmpaginated.pdf'
   title: 'Session 1 (Securing the Cloud)'
+  chair: 'Marcos Aguilera'
 - end: 10:50 AM
   start: 10:20 AM
   talks: []
@@ -88,6 +89,7 @@ day1:
     title: 'Latency Reduction and Load Balancing in Coded Storage Systems'
     url: 'assets/socc17-finalpapers/socc17-final167-acmpaginated.pdf'
   title: Session 2 (The Stateful Cloud)
+  chair: 'Irina Calciu'
 - end: 1:30 PM
   start: 12:10 PM
   talks: []
@@ -136,6 +138,7 @@ day1:
     title: 'Incentivizing Self-Capping to Increase Cloud Utilization'
     url: 'assets/socc17-finalpapers/socc17-final30-acmpaginated.pdf'
   title: Session 3 (Managing the Cloud I)
+  chair: 'Lakshmi Ganesh'
 - end: 4:30 PM
   start: 4:00 PM
   talks: []
@@ -167,6 +170,7 @@ day1:
     title: 'Distributed Resource Management across Process Boundaries'
     url: 'assets/socc17-finalpapers/socc17-final285-acmpaginated.pdf'
   title: Session 4 (Managing the Cloud II)
+  chair: 'Vijayan Prabhakaran'
 - end: 6:00 PM
   start: 5:50 PM
   talks: []
@@ -232,6 +236,7 @@ day2:
     title: 'Workload Analysis and Caching Strategies for Search Advertising Systems'	
     url: 'assets/socc17-finalpapers/socc17-final90-acmpaginated.pdf'
   title: 'Session 5 (Indexing/Caching the Cloud)'
+  chair: 'Sid Sen'
 - end: 1:30 PM
   start: 12:10 PM
   talks: []
@@ -274,6 +279,7 @@ day2:
     title: 'Prism: A Proxy Architecture for Datacenter Networks [VISION]'
     url: 'assets/socc17-finalpapers/socc17-final91-acmpaginated.pdf'
   title: Session 6 (Networking the Cloud)
+  chair: 'Han Wang'
 - end: 3:00 PM
   start: 2:50 PM
   talks: []
@@ -304,6 +310,7 @@ day2:
     title: 'DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing'
     url: 'assets/socc17-finalpapers/socc17-final106-acmpaginated.pdf'
   title: Session 7 (Your friendly neighborhood Cloud)
+  chair: 'Haryadi Gunawi'
 - end: 4:30 PM
   start: 4:00 PM
   talks: []
@@ -349,7 +356,9 @@ day2:
     - Benjamin Recht (UC Berkeley)
     title: 'Occupy the Cloud: Distributed Computing for the 99% [VISION]'
     url: 'assets/socc17-finalpapers/socc17-final221-acmpaginated.pdf'
+    bestvision: true
   title: Session 8 (Data Processing in the Cloud)
+  chair: 'Peter Alvaro'
 - end: 6:00 PM
   start: 5:50 PM
   talks: []
@@ -428,6 +437,7 @@ day3:
     title: 'Processing Java UDFs in a C++ environment'
     url: 'assets/socc17-finalpapers/socc17-final206-acmpaginated.pdf'
   title: 'Session 9 (The Cloud is the OS is the Cloud)'
+  chair: 'Chris Douglas'
 - end: 1:30 PM
   start: 12:10 PM
   talks: []
@@ -467,6 +477,7 @@ day3:
     title: 'Polygravity: Traffic Usage Accountability via Coarse-grained Measurements in Multi-tenant Data Centers'
     url: 'assets/socc17-finalpapers/socc17-final144-acmpaginated.pdf'
   title: Session 10 (The Data-driven Cloud)
+  chair: 'Theo Benson'
 - end: 3:00 PM
   start: 2:50 PM
   talks: []
@@ -495,6 +506,7 @@ day3:
     title: 'Towards Automatic Parameter Tuning of Stream Processing Systems'
     url: 'assets/socc17-finalpapers/socc17-final92-acmpaginated.pdf'
   title: Session 11 (Streaming the Cloud)
+  chair: 'Avrilia Floratou'
 - end: 4:30 PM
   start: 4:00 PM
   talks: []
@@ -517,6 +529,7 @@ day3:
     -  Michael J. Freedman (Princeton University)
     title: 'SLAQ: Quality-Driven Scheduling for Distributed Machine Learning'
     url: 'assets/socc17-finalpapers/socc17-final195-acmpaginated.pdf'
+    best: true
   - authors:
     - Changyeon Jo
     - Youngsu Cho
@@ -532,4 +545,5 @@ day3:
     title: 'On-demand Virtualization for Live Migration in Bare Metal Cloud'
     url: 'assets/socc17-finalpapers/socc17-final192-acmpaginated.pdf'
   title: Session 12 (Learning and Migration in the Cloud)
+  chair: 'John Wilkes'	
 
